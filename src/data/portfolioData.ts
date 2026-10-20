@@ -2,7 +2,7 @@ import { Project, TimelineItem, SkillItem, Article } from '../types';
 
 export const PERSONAL_INFO = {
   name: 'Almas Ahmad Azizi',
-  role: 'Senior Full-Stack Engineer & Product Architect',
+  role: 'Mahasiswa Teknologi Rekayasa Elektro, Universitas Gadjah Mada',
   headline: 'Membangun aplikasi web berskala tinggi, arsitektur cloud tangguh, dan antarmuka produk digital berkelas dunia.',
   bio: 'Seorang Software Engineer & Product Builder dengan pengalaman mendalam dalam merancang sistem web end-to-end, dari arsitektur backend berkinerja tinggi hingga micro-interactions frontend yang memanjakan pengguna. Memiliki dedikasi kuat pada kode bersih, skalabilitas teruji, dan dampak bisnis terukur.',
   location: 'Indonesia (Tersedia untuk Remote / Hybrid Global)',
