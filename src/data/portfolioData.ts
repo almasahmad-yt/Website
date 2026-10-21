@@ -3,8 +3,8 @@ import { Project, TimelineItem, SkillItem, Article } from '../types';
 export const PERSONAL_INFO = {
   name: 'Almas Ahmad Azizi',
   role: 'Mahasiswa Teknologi Rekayasa Elektro, Universitas Gadjah Mada',
-  headline: 'Membangun aplikasi web berskala tinggi, arsitektur cloud tangguh, dan antarmuka produk digital berkelas dunia.',
-  bio: 'Seorang Software Engineer & Product Builder dengan pengalaman mendalam dalam merancang sistem web end-to-end, dari arsitektur backend berkinerja tinggi hingga micro-interactions frontend yang memanjakan pengguna. Memiliki dedikasi kuat pada kode bersih, skalabilitas teruji, dan dampak bisnis terukur.',
+  headline: 'Selamat datang di website saya, semoga kalian suka dengan website saya',
+  bio: 'Seseorang yang tertarik dalam dunia kelistrikan dann mencoba hal baru dalam hidupnya',
   location: 'Indonesia (Tersedia untuk Remote / Hybrid Global)',
   email: 'almasahmadazizi27@gmail.com',
   phone: '+62 812-3456-7890',

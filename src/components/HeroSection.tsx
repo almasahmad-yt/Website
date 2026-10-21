@@ -26,7 +26,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenCvModal }) => {
 
             {/* Headline with balanced wrap */}
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-[1.1] [text-wrap:balance]">
-              Membangun sistem web skalabel & pengalaman produk berkinerja tinggi.
+              {PERSONAL_INFO.headline}
             </h1>
 
             {/* Lead paragraph */}
